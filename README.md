@@ -3,6 +3,11 @@
 ![application!](application.png)
 
 
+In this project, I helped someone who wanted to sell their car find the ideal value for their car.
+I cleaned and analyzed the raw dataset using Python.
+I built a Linear Regression Model with an R2 score of 0.92 with a clean dataset.
+
+
 # How was this project created?
 
 1.First download dataset from Kaggle https://www.kaggle.com/datasets/balaka18/quikr-cars-scraped.
